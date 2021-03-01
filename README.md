@@ -9,3 +9,6 @@ an application where yours can check-in their flight tickets
 
 ## Screenshots
 ![Login screen](https://github.com/mactunechy/airport-checkin/blob/master/Screenshot%20from%202021-03-01%2015-20-22.png)
+![Checkin screen](https://github.com/mactunechy/airport-checkin/blob/master/Screenshot%20from%202021-03-01%2015-20-34.png)
+![Preview image](https://github.com/mactunechy/airport-checkin/blob/master/Screenshot%20from%202021-03-01%2015-21-42.png?raw=true)
+![Success Page](https://github.com/mactunechy/airport-checkin/blob/master/Screenshot%20from%202021-03-01%2015-21-51.png?raw=true)
