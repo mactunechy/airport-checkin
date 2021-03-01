@@ -7,7 +7,7 @@ an application where yours can check-in their flight tickets
 - user can check-in by filling in the required information on the check-in page
 
 ## Demo
-https://github.com/mactunechy/airport-checkin/blob/master/Screenshot%20from%202021-03-01%2015-21-51.png?raw=true
+https://603ceea9265811f0aa946a00--priceless-neumann-b8fba3.netlify.app/
 
 ## contributions
 - enforce validation to fields which are required depending on the nationality
