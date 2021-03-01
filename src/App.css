@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.hover:hover{
+  cursor: pointer;
+  background-color: #ccc;
+}
