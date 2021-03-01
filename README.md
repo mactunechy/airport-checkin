@@ -6,6 +6,9 @@ an application where yours can check-in their flight tickets
 - user can search for their tickets using lastname and flight number
 - user can check-in by filling in the required information on the check-in page
 
+## Demo
+https://github.com/mactunechy/airport-checkin/blob/master/Screenshot%20from%202021-03-01%2015-21-51.png?raw=true
+
 ## contributions
 - enforce validation to fields which are required depending on the nationality
 - fully cover the application with unit and integration tests
