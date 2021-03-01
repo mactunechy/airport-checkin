@@ -4,7 +4,13 @@ an application where yours can check-in their flight tickets
 
 ## user stories
 - user can search for their tickets using lastname and flight number
-- user can check-in by filling in the required information on the page
+- user can check-in by filling in the required information on the check-in page
+
+## contributions
+- enforce validation to fields which are required depending on the nationality
+- fully cover the application with unit and integration tests
+- protect routes from users without a valid flight number
+
 
 
 ## Screenshots
