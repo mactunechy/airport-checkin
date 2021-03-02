@@ -30,7 +30,7 @@ const SearchFlight: React.FC = () => {
     }
   };
   return (
-    <div className=" search-flight">
+    <div className="container">
       <div className="row mt-5 align-items-center justify-content-center">
         <div className="col-md-4">
           <div className="card ">

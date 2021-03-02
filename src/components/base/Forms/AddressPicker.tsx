@@ -58,6 +58,8 @@ const AddressPicker: React.FC<{
 
   const renderSuggestions = () =>
     data.map((suggestion) => {
+      console.log(suggestion);
+
       const {
         place_id,
         structured_formatting: { main_text, secondary_text },
